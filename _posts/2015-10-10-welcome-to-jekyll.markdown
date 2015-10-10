@@ -1,25 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "My first blog post: Constructing this site"
 date:   2015-10-10 14:15:23
-categories: jekyll update
+categories: updates
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello there, just going to briefly describe this transition before describing myself in a later post. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+As I'm writing this, everything is barebones jekyll. I've been using a grunt workflow for a standard website with wordpress. There was no real use of ruby or github, just pure Node.js and Dreamweaver. 
 
-Jekyll also offers powerful support for code snippets:
+In creating this site, I hope to understand the deal with preprocessors concerning the popular use of SASS and CoffeeScript. I've always figured that being fluent in foundational CSS, HTML and JS is better than learning SASS, Markdown, Jquery etc. Often when asking what skills other web designers have, that are roughly my age or below, there are misconceptions that being good at Jquery is equivalent to understanding Javascript.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Discovering grunt has set me on the path to jekyll, yeoman ruby and python. Follow me as my site develops and my skills are cultivated.
