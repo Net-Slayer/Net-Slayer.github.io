@@ -121,6 +121,11 @@ gemfile
 Gruntfile.js
 package.json
 Gemfile.lock
-/global/
-/libs/
-/total/
+js/global/
+js/libs/
+js/total/
+images/global/
+images/total/
+release/css/global/
+release/css/total/
+**.dwt
