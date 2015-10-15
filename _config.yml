@@ -28,6 +28,9 @@ js/libs,
 images/global,
 release/css/global,
 release/css/total,
+gemfile
+Gemfile.lock
+*.src.html
 ]
 
 # Build settings
