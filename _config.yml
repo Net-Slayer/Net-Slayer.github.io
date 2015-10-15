@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Web-designer, programmer, animator.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: Talon_HQ
+github_username:  Net-Slayer
 exclude: [
 .git,
 .gitignore,
@@ -18,7 +18,16 @@ scss,
 package.json,
 Gruntfile.js,
 node_modules,
-readme.md
+readme.md,
+templates,
+Source,
+build,
+js/global,
+js/total,
+js/libs,
+images/global,
+release/css/global,
+release/css/total,
 ]
 
 # Build settings
