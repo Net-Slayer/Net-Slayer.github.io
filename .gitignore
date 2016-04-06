@@ -133,3 +133,5 @@ compat/
 pre_sass/
 **.sass
 **.dwt
+*.sass
+*.sass
