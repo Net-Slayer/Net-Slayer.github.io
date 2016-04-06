@@ -129,4 +129,7 @@ images/total/
 release/css/global/
 release/css/total/
 htmtmp/
+compat/
+pre_sass/
+**.sass
 **.dwt
